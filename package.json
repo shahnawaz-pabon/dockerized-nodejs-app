@@ -1,0 +1,20 @@
+{
+  "name": "dockerized-nodejs-app",
+  "version": "1.0.0",
+  "description": "nodejs app with multi-stage docker build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahnawaz-pabon/dockerized-nodejs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahnawaz-pabon/dockerized-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/shahnawaz-pabon/dockerized-nodejs-app#readme"
+}
